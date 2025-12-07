@@ -1,8 +1,10 @@
 streamlit
 transformers
+matplotlib
 torch
 pandas
 regex
 sentencepiece
 accelerate
 safetensors
+
