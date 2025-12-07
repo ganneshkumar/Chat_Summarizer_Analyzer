@@ -3,8 +3,10 @@ transformers
 matplotlib
 torch
 pandas
+wordcloud 
 regex
 sentencepiece
 accelerate
 safetensors
+
 
