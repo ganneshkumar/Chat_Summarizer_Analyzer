@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+pandas
+regex
+sentencepiece
+accelerate
+safetensors
